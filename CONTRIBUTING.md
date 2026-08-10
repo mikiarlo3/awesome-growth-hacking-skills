@@ -26,6 +26,21 @@ Choose the most relevant category in `README.md`. Add one Markdown list item, al
 
 When linking directly to a skill inside a larger repository, use the skill's canonical GitHub path and state its purpose in the description. Do not add tracking links, referral links, shortened URLs, or links that require a login to evaluate.
 
+## Local validation and linting
+
+Before submitting a Pull Request, run the automated linter and unit test suite to ensure markdown formatting, alphabetical order, and links are valid:
+
+```bash
+# Run unit tests
+pytest
+
+# Validate README formatting and alphabetical sorting
+python scripts/lint_awesome.py
+
+# Auto-sort entries in README.md if needed
+python scripts/lint_awesome.py --fix
+```
+
 ## Pull request checklist
 
 Before opening a pull request, confirm the following:
@@ -36,6 +51,7 @@ Before opening a pull request, confirm the following:
 - [ ] It is not a duplicate, obsolete redirect, or packaging fork of an already listed active upstream project.
 - [ ] The entry is alphabetized and uses a concise, factual description.
 - [ ] The resource does not encourage spam, fake engagement, deceptive automation, or terms-of-service evasion.
+- [ ] `python scripts/lint_awesome.py` and `pytest` pass with no errors.
 
 ## Review process
 
