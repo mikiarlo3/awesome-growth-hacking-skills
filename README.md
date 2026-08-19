@@ -58,11 +58,12 @@ Broad, multi-discipline libraries that cover the entire marketing stack.
 
 ## SEO, GEO, AEO, and Discovery
 
-- [Agentic SEO Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill) - Technical SEO, content, schema, GEO (Generative Engine Optimization), AEO (Answer Engine Optimization), programmatic SEO, and audit evidence collection.
-- [Sanity Agent Toolkit](https://github.com/sanity-io/agent-toolkit) - Official SEO/AEO and content-experimentation best-practice skills.
-- [Aaron Keyword Research](https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/main/seo-geo/survey/keyword-research) - Deep keyword research and topical clustering workflows.
 - [Aaron GEO Content Optimizer](https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/main/seo-geo/implement/geo-content-optimizer) - Optimization for AI search engines and AI Overviews.
+- [Aaron Keyword Research](https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/main/seo-geo/survey/keyword-research) - Deep keyword research and topical clustering workflows.
 - [Aaron Technical SEO Checker](https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/main/seo-geo/tune/technical-seo-checker) - Automated technical SEO review and remediation.
+- [Agentic SEO Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill) - Technical SEO, content, schema, GEO (Generative Engine Optimization), AEO (Answer Engine Optimization), programmatic SEO, and audit evidence collection.
+- [SandBase SEO Keyword Insights](https://github.com/sandbaseai/sandbase-skills/tree/main/marketing/seo-keyword-insights) - Evidence-backed keyword discovery, demand and difficulty validation, competitor-gap analysis, live-SERP intent checks, and prioritized page planning with explicit market and source labels.
+- [Sanity Agent Toolkit](https://github.com/sanity-io/agent-toolkit) - Official SEO/AEO and content-experimentation best-practice skills.
 
 ## CRO, Websites, and Funnel Design
 
