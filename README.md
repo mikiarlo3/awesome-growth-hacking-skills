@@ -89,6 +89,7 @@ Broad, multi-discipline libraries that cover the entire marketing stack.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Claude Code skills for Google Ads, Meta Ads, SEO, GEO, local SEO, content planning, and goal-based marketing loops.
 - [Humblytics Revenue Attributor](https://github.com/Humblytics/humblytics-marketing-skills/blob/main/skills/revenue-attributor/SKILL.md) - Connect ad spend to revenue and evaluate true ROAS.
 - [SegmentStream AI Skills](https://segmentstream.com/ai-skills) - Official prompt catalogue for data quality, attribution models, audience/traffic quality, incremental tests, marginal ROAS, and budget decisions. *(Hosted resource)*
+- [Advibly Skills](https://github.com/advibly/skills) - Finished creative production rather than strategy: turns a campaign plan into on-brand UGC video ads, explainers, claymation, and collage-motion ads through the Advibly MCP.
 
 ## Social, Community, and Creator Distribution
 
