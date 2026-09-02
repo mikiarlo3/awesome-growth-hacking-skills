@@ -93,6 +93,7 @@ Broad, multi-discipline libraries that cover the entire marketing stack.
 ## Social, Community, and Creator Distribution
 
 - [Social Media Skills](https://github.com/blacktwist/social-media-skills) - Social strategy, content calendars, platform strategy, posts, threads, carousels, captions, repurposing, and analytics.
+- [BulkPublish social media content skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills) - Agent-agnostic skills for planning, adapting, reviewing, scheduling, and publishing social content through the [BulkPublish API](https://github.com/azeemkafridi/bulkpublish-api), with [MCP documentation](https://app.bulkpublish.com/docs).
 - [Typefully Agent Skills](https://github.com/typefully/agent-skills) - Drafting, scheduling, and managing posts across X, LinkedIn, Threads, Bluesky, Mastodon, and Substack Notes.
 - [Composio Twitter Algorithm Optimizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/twitter-algorithm-optimizer) - Tweet analysis and rewriting for maximum algorithmic reach.
 - [Developer Marketing Skills](https://github.com/jonathimer/devmarketing-skills) - Developer content, documentation, community management, developer SEO, lead generation, onboarding, and DevRel workflows.
