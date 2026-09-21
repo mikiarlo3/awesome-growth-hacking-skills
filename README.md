@@ -46,6 +46,7 @@ Broad, multi-discipline libraries that cover the entire marketing stack.
 ## Strategy, Positioning, and Brand
 
 - [Brand Building Skills](https://github.com/arnabbagxd/Brand-building-skills) - Workflows for brand strategy, naming, identity, voice, positioning, messaging, launch, D2C, B2B, UGC, and brand partnerships.
+- [Marketing Mindset](https://github.com/axelfreeman/marketing-mindset) - Decision framework skill covering positioning, first-client acquisition, channel choice, and the send/visitor volumes needed before a campaign result can be judged.
 - [Product Marketing Skills](https://github.com/pmalliance/product-marketing-skills) - Context setup, messaging, competitive intelligence, customer research, GTM planning, and pricing strategies.
 - [Startup Skill](https://github.com/ferdinandobons/startup-skill) - Startup validation, competitive intelligence, positioning, and pitch deck workflows.
 - [Marketing Research Skill](https://github.com/ishwarjha/claude-marketing-research-skill) - Practitioner-grade research system for competitor mapping, positioning, avatar profiling, awareness mapping, and value proposition development.
