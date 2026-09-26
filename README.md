@@ -100,6 +100,7 @@ Broad, multi-discipline libraries that cover the entire marketing stack.
 - [Hacker News Strategy](https://github.com/jonathimer/devmarketing-skills/blob/main/skills/hacker-news-strategy) - Show HN preparation and ethical distribution tactics.
 - [Developer Listening](https://github.com/jonathimer/devmarketing-skills/blob/main/skills/developer-listening) - Developer conversation monitoring across public communities.
 - [Creator UGC Marketing](https://github.com/Eronred/aso-skills/blob/main/skills/creator-ugc-marketing) - Creator program strategy, sourcing, hook angles, and measurement for app growth.
+- [Reddit Rules First](https://github.com/amflimited/threadfox-lite/tree/main/skills/reddit-rules-first) - Agent skill for posting to Reddit the way communities accept it: read each subreddit's rules before writing, one fresh post per community, disclose affiliation in the first lines, space posts out, and check at 1, 6 and 24 hours whether each post stayed up.
 
 ## Sales, SDR, ABM, and RevOps
 
