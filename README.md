@@ -55,6 +55,7 @@ Broad, multi-discipline libraries that cover the entire marketing stack.
 - [App Review Insights](https://github.com/joeseesun/qiaomu-app-review-insights) - App-store-review mining to extract pain points, opportunities, version risks, and feature evidence.
 - [Composio Lead Research Assistant](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/lead-research-assistant) - Target-company discovery, qualification, and actionable outreach strategies.
 - [Composio Competitive Ads Extractor](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor) - Extracts and analyzes competitors' ads from libraries to understand messaging approaches.
+- [Jev Social](https://github.com/socai-io/jev-social/tree/v0.1.10/skills/jev-social) - Read-only Instagram, TikTok, and LinkedIn research through the user's existing Chrome session, preserving source evidence for a cited report.
 
 ## SEO, GEO, AEO, and Discovery
 
