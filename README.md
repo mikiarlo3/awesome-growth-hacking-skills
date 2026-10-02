@@ -63,6 +63,7 @@ Broad, multi-discipline libraries that cover the entire marketing stack.
 - [Aaron Keyword Research](https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/main/seo-geo/survey/keyword-research) - Deep keyword research and topical clustering workflows.
 - [Aaron GEO Content Optimizer](https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/main/seo-geo/implement/geo-content-optimizer) - Optimization for AI search engines and AI Overviews.
 - [Aaron Technical SEO Checker](https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/main/seo-geo/tune/technical-seo-checker) - Automated technical SEO review and remediation.
+- [LogNorm](https://github.com/lognorm/lognorm-mcp/tree/main/skills/lognorm) - Works a site's SEO and AI-visibility (GEO) backlog through the hosted LogNorm MCP server: audits, code fixes, content, and AI-answer tracking. Requires a free LogNorm account.
 
 ## CRO, Websites, and Funnel Design
 
