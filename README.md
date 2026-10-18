@@ -100,6 +100,7 @@ Broad, multi-discipline libraries that cover the entire marketing stack.
 - [Hacker News Strategy](https://github.com/jonathimer/devmarketing-skills/blob/main/skills/hacker-news-strategy) - Show HN preparation and ethical distribution tactics.
 - [Developer Listening](https://github.com/jonathimer/devmarketing-skills/blob/main/skills/developer-listening) - Developer conversation monitoring across public communities.
 - [Creator UGC Marketing](https://github.com/Eronred/aso-skills/blob/main/skills/creator-ugc-marketing) - Creator program strategy, sourcing, hook angles, and measurement for app growth.
+- [Social Media API Skills](https://github.com/nikhonit/social-media-api-skills) - Public profiles, posts, comments, search, and video transcripts from TikTok, Instagram, LinkedIn, YouTube, X, Reddit, and 30+ platforms for competitor and audience research.
 
 ## Sales, SDR, ABM, and RevOps
 
