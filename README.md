@@ -55,6 +55,7 @@ Broad, multi-discipline libraries that cover the entire marketing stack.
 - [App Review Insights](https://github.com/joeseesun/qiaomu-app-review-insights) - App-store-review mining to extract pain points, opportunities, version risks, and feature evidence.
 - [Composio Lead Research Assistant](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/lead-research-assistant) - Target-company discovery, qualification, and actionable outreach strategies.
 - [Composio Competitive Ads Extractor](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor) - Extracts and analyzes competitors' ads from libraries to understand messaging approaches.
+- [MarketMirror](https://github.com/DarkWorldCoder/market-mirror/tree/main/plugin/skills/market-mirror) - Agent skill and MCP server that tests ads, prices, emails and sales pitches on simulated buyer panels and returns a go / iterate / no-go report.
 
 ## SEO, GEO, AEO, and Discovery
 
