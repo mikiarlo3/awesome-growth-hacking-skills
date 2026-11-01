@@ -107,6 +107,7 @@ Broad, multi-discipline libraries that cover the entire marketing stack.
 - [AI Sales Team](https://github.com/zubair-trabzada/ai-sales-team-claude) - Prospecting, BANT/MEDDIC qualification, decision-makers, outreach, meeting prep, proposals, objections, ICP, and reporting.
 - [GTM Agents](https://github.com/gtmagents/gtm-agents) - GTM marketplace with sales, marketing, growth, CS, RevOps, and workflow orchestration plugins.
 - [AgentFactory Business Plugins](https://github.com/panaversity/agentfactory-business-plugins) - Business plugins including sales-revops-marketing and commercial workflows.
+- [Mach GTM MCP](https://github.com/verma6uc/mach-gtm-mcp) - Open-source MCP server for B2B outbound sales with verified signal-grounded personalisation: ICP definition, prospect research, lead scoring (0-100), cold email/LinkedIn drafting (1-3-1 framework), and multi-touch sequence generation. Install: `npx mach-gtm-mcp`. Human approval required before any message is sent.
 
 ## Product-Led Growth and Experimentation
 
