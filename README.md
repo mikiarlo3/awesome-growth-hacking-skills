@@ -55,10 +55,12 @@ Broad, multi-discipline libraries that cover the entire marketing stack.
 - [App Review Insights](https://github.com/joeseesun/qiaomu-app-review-insights) - App-store-review mining to extract pain points, opportunities, version risks, and feature evidence.
 - [Composio Lead Research Assistant](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/lead-research-assistant) - Target-company discovery, qualification, and actionable outreach strategies.
 - [Composio Competitive Ads Extractor](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor) - Extracts and analyzes competitors' ads from libraries to understand messaging approaches.
+- [Firecrawl Competitive Intel](https://github.com/firecrawl/skills/tree/main/skills/workflows/firecrawl-competitive-intel) - Monitors competitor pricing pages, feature pages, and changelogs with Firecrawl, and reports pricing tiers, feature changes, and alerts with source URLs.
 
 ## SEO, GEO, AEO, and Discovery
 
 - [Agentic SEO Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill) - Technical SEO, content, schema, GEO (Generative Engine Optimization), AEO (Answer Engine Optimization), programmatic SEO, and audit evidence collection.
+- [Firecrawl SEO Audit](https://github.com/firecrawl/skills/tree/main/skills/workflows/firecrawl-seo-audit) - Audits titles, meta descriptions, headings, canonicals, structured data, and internal links with the Firecrawl CLI, and returns prioritized fixes.
 - [Sanity Agent Toolkit](https://github.com/sanity-io/agent-toolkit) - Official SEO/AEO and content-experimentation best-practice skills.
 - [Aaron Keyword Research](https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/main/seo-geo/survey/keyword-research) - Deep keyword research and topical clustering workflows.
 - [Aaron GEO Content Optimizer](https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/main/seo-geo/implement/geo-content-optimizer) - Optimization for AI search engines and AI Overviews.
