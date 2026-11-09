@@ -95,6 +95,7 @@ Broad, multi-discipline libraries that cover the entire marketing stack.
 - [Social Media Skills](https://github.com/blacktwist/social-media-skills) - Social strategy, content calendars, platform strategy, posts, threads, carousels, captions, repurposing, and analytics.
 - [Typefully Agent Skills](https://github.com/typefully/agent-skills) - Drafting, scheduling, and managing posts across X, LinkedIn, Threads, Bluesky, Mastodon, and Substack Notes.
 - [Composio Twitter Algorithm Optimizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/twitter-algorithm-optimizer) - Tweet analysis and rewriting for maximum algorithmic reach.
+- [X Trends History](https://github.com/twtdata/x-trends-history-skill) - What was trending on X (Twitter) in a given country on a given date, from twtData's free dated trends archive.
 - [Developer Marketing Skills](https://github.com/jonathimer/devmarketing-skills) - Developer content, documentation, community management, developer SEO, lead generation, onboarding, and DevRel workflows.
 - [Open Source Marketing](https://github.com/jonathimer/devmarketing-skills/blob/main/skills/open-source-marketing) - Strategies for open-source distribution and developer adoption.
 - [Hacker News Strategy](https://github.com/jonathimer/devmarketing-skills/blob/main/skills/hacker-news-strategy) - Show HN preparation and ethical distribution tactics.
