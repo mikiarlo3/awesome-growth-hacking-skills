@@ -92,6 +92,7 @@ Broad, multi-discipline libraries that cover the entire marketing stack.
 
 ## Social, Community, and Creator Distribution
 
+- [PostOnce Skills](https://github.com/postoncehq/postonce-skills) - Writing a native post per platform, crossposting one video or post to TikTok, Instagram, YouTube, LinkedIn, Facebook, X, Threads, Pinterest and Bluesky through official APIs, and scheduling content calendars.
 - [Social Media Skills](https://github.com/blacktwist/social-media-skills) - Social strategy, content calendars, platform strategy, posts, threads, carousels, captions, repurposing, and analytics.
 - [Typefully Agent Skills](https://github.com/typefully/agent-skills) - Drafting, scheduling, and managing posts across X, LinkedIn, Threads, Bluesky, Mastodon, and Substack Notes.
 - [Composio Twitter Algorithm Optimizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/twitter-algorithm-optimizer) - Tweet analysis and rewriting for maximum algorithmic reach.
