@@ -107,6 +107,7 @@ Broad, multi-discipline libraries that cover the entire marketing stack.
 - [AI Sales Team](https://github.com/zubair-trabzada/ai-sales-team-claude) - Prospecting, BANT/MEDDIC qualification, decision-makers, outreach, meeting prep, proposals, objections, ICP, and reporting.
 - [GTM Agents](https://github.com/gtmagents/gtm-agents) - GTM marketplace with sales, marketing, growth, CS, RevOps, and workflow orchestration plugins.
 - [AgentFactory Business Plugins](https://github.com/panaversity/agentfactory-business-plugins) - Business plugins including sales-revops-marketing and commercial workflows.
+- [LeadSets GTM Skills](https://github.com/leadsets/leadsets-skills) - Unlimited B2B Contact Data for AI Agents, Starting from $29/mo. 50 open-source GTM skills for prospect lists, enrichment, verification, account research and CRM hygiene. Works in Claude, ChatGPT and Cursor.
 
 ## Product-Led Growth and Experimentation
 
