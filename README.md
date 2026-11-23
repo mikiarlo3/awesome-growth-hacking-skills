@@ -59,6 +59,7 @@ Broad, multi-discipline libraries that cover the entire marketing stack.
 ## SEO, GEO, AEO, and Discovery
 
 - [Agentic SEO Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill) - Technical SEO, content, schema, GEO (Generative Engine Optimization), AEO (Answer Engine Optimization), programmatic SEO, and audit evidence collection.
+- [OmniForge Skills](https://github.com/zColdWater/omniforge-skills) - Portable SKILL.md workflows for Claude Code, Codex, Cursor, and Gemini CLI auditing AI search readiness (/llms.txt, Schema.org JSON-LD, AI crawler rules), SPF/DMARC email deliverability, and 78-TLD SaaS domain availability.
 - [Sanity Agent Toolkit](https://github.com/sanity-io/agent-toolkit) - Official SEO/AEO and content-experimentation best-practice skills.
 - [Aaron Keyword Research](https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/main/seo-geo/survey/keyword-research) - Deep keyword research and topical clustering workflows.
 - [Aaron GEO Content Optimizer](https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/main/seo-geo/implement/geo-content-optimizer) - Optimization for AI search engines and AI Overviews.
