@@ -82,6 +82,7 @@ Broad, multi-discipline libraries that cover the entire marketing stack.
 - [Email Skills](https://github.com/chunkydotdev/email-skills) - Deep email expertise covering deliverability, sender authentication, sequences, lifecycle emails, content quality, compliance, operations, inbound processing, and security.
 - [Claude Email](https://github.com/AgriciDaniel/claude-email) - Inbox triage, email copy frameworks (PAS, AIDA, BAB), pre-send quality review, deliverability audits, automation sequences, and marketing planning.
 - [Email Marketing Skill](https://github.com/jacquescorbytuech/email-marketing-skill) - Strategy, deliverability, list building, segmentation, automation, copywriting, analytics, and ESP selection.
+- [FairValid Email Verification](https://github.com/moonlitnayeem/fairvalid-ai/tree/main/skills/email-verification) - MIT workflow for user-authorized email checks and job results via FairValid MCP; requires a proprietary hosted account and credits.
 
 ## Paid Media, Creative, and Attribution
 
