@@ -92,6 +92,7 @@ Broad, multi-discipline libraries that cover the entire marketing stack.
 
 ## Social, Community, and Creator Distribution
 
+- [Publora Skills](https://github.com/publora/skills) - Writing a native post for each platform, then drafting, scheduling and publishing it to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Facebook Pages, Bluesky, Mastodon and Telegram through the Publora MCP server, plus LinkedIn post and account analytics.
 - [Social Media Skills](https://github.com/blacktwist/social-media-skills) - Social strategy, content calendars, platform strategy, posts, threads, carousels, captions, repurposing, and analytics.
 - [Typefully Agent Skills](https://github.com/typefully/agent-skills) - Drafting, scheduling, and managing posts across X, LinkedIn, Threads, Bluesky, Mastodon, and Substack Notes.
 - [Composio Twitter Algorithm Optimizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/twitter-algorithm-optimizer) - Tweet analysis and rewriting for maximum algorithmic reach.
