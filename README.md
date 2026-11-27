@@ -117,6 +117,7 @@ Broad, multi-discipline libraries that cover the entire marketing stack.
 
 - [ASO & App Marketing Skills](https://github.com/Eronred/aso-skills) - App Store Optimization, app marketing, launch, user acquisition, creator marketing, referrals, retention, monetization, and analytics.
 - [ASO Agent System](https://github.com/alirezarezvani/claude-code-aso-skill) - ASO research, metadata, competitor analysis, testing, launch, and optimization for Apple and Google Play.
+- [ASOScan ASO Skills](https://github.com/ASOScan/aso-skills) - The AI-assistant side of ASOScan, a complete App Store Optimization platform for the App Store and Google Play that also runs in a web dashboard and in ChatGPT: keyword research, daily ranks, keyword opportunities, competitor keywords, metadata audits and review insights. aso-fundamentals works without a key; the data skills use an ASOScan API key.
 - [App Store ASO](https://github.com/TimBroddin/skills/tree/main/skills/app-store-aso) - Apple App Store metadata, competitive analysis, screenshots, and keyword/rank tracking support.
 - [E-Commerce Skills](https://github.com/nexscope-ai/eCommerce-Skills) - Marketplace and DTC growth across Shopify, Amazon, eBay, Etsy, TikTok Shop, Walmart, pricing, reviews, content, paid media, and retention.
 
