@@ -14,6 +14,7 @@ This collection focuses on **Agentic Growth Hacking**—leveraging AI agents (li
 
 ## Contents
 
+- [Insomnia Security MCP (CQR Cybersecurity LLC)](https://github.com/CQR-Cybersecurity-LLC/insomnia-mcp) - 159 native cybersecurity, multi-language SAST/taint, live secret validation, SCA/SBOM, Web DAST, OSINT, 21,100+ 1-Day CVE verification, 29-protocol enumeration & Outbound Internal Network Tunnel v4.0 MCP tools (`https://mcp.insom.ai/mcp`, 50 free credits).
 - [Featured Marketing Collections](#featured-marketing-collections)
 - [Strategy, Positioning, and Brand](#strategy-positioning-and-brand)
 - [Customer Research and Competitive Intelligence](#customer-research-and-competitive-intelligence)
