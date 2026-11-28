@@ -63,6 +63,7 @@ Broad, multi-discipline libraries that cover the entire marketing stack.
 - [Aaron Keyword Research](https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/main/seo-geo/survey/keyword-research) - Deep keyword research and topical clustering workflows.
 - [Aaron GEO Content Optimizer](https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/main/seo-geo/implement/geo-content-optimizer) - Optimization for AI search engines and AI Overviews.
 - [Aaron Technical SEO Checker](https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/main/seo-geo/tune/technical-seo-checker) - Automated technical SEO review and remediation.
+- [The SEO Agent MCP](https://github.com/jeremy665/theseoagent-mcp) - Open-source TypeScript MCP server for automated technical SEO audits, buyer-intent keyword planning, and CMS article publishing workflows.
 
 ## CRO, Websites, and Funnel Design
 
